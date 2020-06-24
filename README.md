@@ -1,7 +1,5 @@
 # Matplotlib-Homework---the-power-of-the-plots
 
-# Matplotlib Homework - The Power of Plots
-
 ## Background
 
 What good is data without a good plot to tell the story?
