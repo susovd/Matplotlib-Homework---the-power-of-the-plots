@@ -1,5 +1,21 @@
 # Matplotlib-Homework---the-power-of-the-plots
 
+Key inferences after data exploration:
+
+1. Sample size appeared uniform across all drug regiment.
+
+2. Gender distrubution was even across all drug regimen.
+
+3. Capomulin and Ramicane appeared to be most effective drug againt tumor growth. Both of them have potential to be used for next stage of drug approval process. 
+
+4. In the mouse selected for line plot (Mouse ID = m601), capomulin apperead very effective in reducing tumor volume with time. 
+
+5. There is strong correlation between mouse weight and tumour volume for capomulin regimen (correlation cofficient = 0.84). This makes sense because, bigger a mouse is, it likely that the size of the tumor will be bigger based on its body size. This is further supprted by the equation of line of best fit for the relationship between weight and tumour volume, y = 0.95x + 21.55. Based on the equation, it appears that with increase of every gram of weight of mice, the tumor volume also increase by 1mm3 (0.95mm3 to be exact).
+
+
+
+  
+
 ## Background
 
 What good is data without a good plot to tell the story?
