@@ -1,8 +1,8 @@
 
 <p align="center">
-  <h3 align="center">World Demographic Trends 1950-2019</h3>
+  <h3 align="center">Pharmaceutical Data Analysis</h3>
   <p align="center">
-    A Data Visualisation Project
+    A Matplotlib Project
     <br />
   </p>
 </p>
