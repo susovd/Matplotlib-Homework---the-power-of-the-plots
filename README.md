@@ -59,16 +59,16 @@ Key inferences after data exploration:
 
 Here are some of the visualization I created after performing data analysis.
 * Gender Distribution
-![Gender_distribution](Images/gender_distribution.png)
+![Gender_distribution](Images/gender_distribution.png align="left")
 
 * Mouse weight vs average tumour volume
 ![Mousewt_vs_avgtumour_vol](Images/mousewt_vs_avgtumour_vol.png align="left")
 
 * Number of mice per regimen
-![Num_mice_per_regimen](Images/num_mice_per_regimen.png)
+![Num_mice_per_regimen](Images/num_mice_per_regimen.png align="left")
 
 * Tumour per regimen
-![Tumour_col_per_regimen](Images/tumour_col_per_regimen.png)
+![Tumour_col_per_regimen](Images/tumour_col_per_regimen.png align="left")
 
 **Additional reference materials:**
 
