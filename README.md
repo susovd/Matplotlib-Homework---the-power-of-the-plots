@@ -59,6 +59,7 @@ Key inferences after data exploration:
 
 Here are some of the visualization I created after performing data analysis.
 <p align = "center">
+  
 * Gender Distribution
 ![Gender_distribution](Images/gender_distribution.png)
 
