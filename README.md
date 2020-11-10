@@ -58,10 +58,9 @@ Key inferences after data exploration:
 5. There is strong correlation between mouse weight and tumour volume for capomulin regimen (correlation cofficient = 0.84). This makes sense because, bigger a mouse is, it likely that the size of the tumor will be bigger based on its body size. This is further supprted by the equation of line of best fit for the relationship between weight and tumour volume, y = 0.95x + 21.55. Based on the equation, it appears that with increase of every gram of weight of mice, the tumor volume also increase by 1mm3 (0.95mm3 to be exact).
 
 Here are some of the visualization I created after performing data analysis.
-<p align = "left">
   
 * Gender Distribution
-![Gender_distribution](Images/gender_distribution.png)
+<img align="center" width="460" height="300" src="Images/gender_distribution.png">
 
 * Mouse weight vs average tumour volume
 ![Mousewt_vs_avgtumour_vol](Images/mousewt_vs_avgtumour_vol.png)
@@ -73,7 +72,7 @@ Here are some of the visualization I created after performing data analysis.
 ![Tumour_col_per_regimen](Images/tumour_col_per_regimen.png)
 
 
-</p>
+
 **Additional reference materials:**
 
 _Best-README-Template_ Retrieved from: [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
