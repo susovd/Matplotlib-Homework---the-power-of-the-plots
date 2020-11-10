@@ -62,7 +62,7 @@ Here are some of the visualization I created after performing data analysis.
 ![Gender_distribution](Images/gender_distribution.png)
 
 * Mouse weight vs average tumour volume
-![Mousewt_vs_avgtumour_vol](Images/mousewt_vs_avgtumour_vol.png)
+![Mousewt_vs_avgtumour_vol](Images/mousewt_vs_avgtumour_vol.png align="left")
 
 * Number of mice per regimen
 ![Num_mice_per_regimen](Images/num_mice_per_regimen.png)
